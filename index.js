@@ -78,6 +78,6 @@ const testUrl = argv.url;
     })
     return curr
   })
-  console.log('Averages:', averages)
+  console.log('\nAverages:', averages)
   process.exit()
 })();
