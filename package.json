@@ -1,0 +1,16 @@
+{
+  "name": "lighthouse-analyze",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmountjr/lighthouse-analyze.git"
+  },
+  "author": "Tom Mount <tmount@edg.io>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "lighthouse": "^9.6.7",
+    "yargs": "^17.5.1"
+  }
+}
